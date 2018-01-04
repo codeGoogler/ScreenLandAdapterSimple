@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="10寸平板布局——横屏要显示的界面" />
+    <Button
+        android:id="@+id/btn_onclick01"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="条目1"  />
+    <Button
+        android:id="@+id/btn_onclick02"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="条目2"  />
+    <Button
+        android:id="@+id/btn_onclick03"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="条目3"  />
+    <Button
+        android:id="@+id/btn_onclick04"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="条目4"  />
+    <Button
+        android:id="@+id/btn_onclick05"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="条目5"  />
+    <FrameLayout
+        android:id="@+id/realtabcontent"
+        android:layout_width="match_parent"
+        android:background="@color/common_font_red_color"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+<Button
+    android:layout_width="150dp"
+    android:layout_height="100dp"
+    android:id="@+id/button"
+    android:textColor="#FFFFFF"
+    android:background="@color/colorAccent"
+    android:text="fragment01"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:text="如果您觉得不错，请关注我的公众号支持一下\n公众号终端研发部\日更精彩\n每天7点，每天八点准时推送\n为您提供最快捷的精进之路"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+</LinearLayout>
