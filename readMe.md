@@ -105,6 +105,7 @@ eg:
 
 #### 关于更多
 
+[破解Android版微信跳一跳,一招教你挑战高分](https://mp.weixin.qq.com/s/COKX3fWNEszas6sA0hs3Lg)\
 
 [热修复实战-史上讲解最详细的文章，强烈推荐](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100001255&idx=1&sn=6b1674c7578039b61b4c34825619c363&chksm=6b4769795c30e06fa1d02f89e7a3e230c2d9c5761b0256fd1ed33eee899803a95f574a144450#rd)
 
